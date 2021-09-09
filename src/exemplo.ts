@@ -1,4 +1,4 @@
-
+//linha1
 // typescript é tipado
 let motor: boolean;
 motor = true;
